@@ -10,10 +10,10 @@ package com.driver;
 
  class B extends A {
    
-  @Override
-    public static String meth() {
-        return "Method is overridden in Extended class B";
-    }
+//  @Override
+ //   public static String meth() {
+ //       return "Method is overridden in Extended class B";
+  //  }
 }
 
 public class Main {
